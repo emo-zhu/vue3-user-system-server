@@ -1,0 +1,84 @@
+[2022-08-13T17:27:10.127] [ERROR] error - ReferenceError: getTreeDept is not defined
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\routes\depts.js:22:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\app.js:46:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-13T17:27:10.817] [ERROR] error - ReferenceError: getTreeDept is not defined
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\routes\depts.js:22:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\app.js:46:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-13T17:27:42.713] [ERROR] error - ReferenceError: getTreeDept is not defined
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\routes\depts.js:22:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\app.js:46:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-13T17:28:05.946] [ERROR] error - ReferenceError: getTreeDept is not defined
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\routes\depts.js:22:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\app.js:46:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-13T17:28:35.037] [ERROR] error - ReferenceError: getTreeDept is not defined
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\routes\depts.js:22:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\app.js:46:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-13T17:35:06.623] [ERROR] error - ReferenceError: getTreeDept is not defined
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\routes\depts.js:22:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\app.js:46:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-13T17:35:07.360] [ERROR] error - ReferenceError: getTreeDept is not defined
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\routes\depts.js:22:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\app.js:46:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-13T17:35:07.874] [ERROR] error - ReferenceError: getTreeDept is not defined
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\routes\depts.js:22:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\app.js:46:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-13T17:35:11.051] [ERROR] error - ReferenceError: getTreeDept is not defined
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\routes\depts.js:22:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\app.js:46:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-13T17:35:13.596] [ERROR] error - ReferenceError: getTreeDept is not defined
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\routes\depts.js:22:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\app.js:46:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-13T17:36:28.139] [ERROR] error - ReferenceError: getTreeDept is not defined
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\routes\depts.js:22:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\app.js:46:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-13T17:37:38.126] [ERROR] error - ReferenceError: getTreeDept is not defined
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\routes\depts.js:22:21
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\app.js:46:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-bodyparser\index.js:95:5)

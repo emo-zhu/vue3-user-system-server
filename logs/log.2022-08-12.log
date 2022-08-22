@@ -1,0 +1,72 @@
+[2022-08-12T13:53:47.241] [ERROR] error - 启动失败
+[2022-08-12T13:54:53.891] [ERROR] error - 启动失败
+[2022-08-12T16:23:50.564] [ERROR] error - TypeError: util.getTreeMenu is not a function
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\routes\menus.js:19:31
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\app.js:46:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-12T16:23:50.570] [ERROR] error - TypeError: util.getTreeMenu is not a function
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\routes\menus.js:19:31
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\app.js:46:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-12T16:24:49.949] [ERROR] error - TypeError: util.getTreeMenu is not a function
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\routes\menus.js:19:31
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\app.js:46:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-12T16:24:54.415] [ERROR] error - TypeError: util.getTreeMenu is not a function
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\routes\menus.js:19:31
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\app.js:46:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-12T16:24:54.419] [ERROR] error - TypeError: util.getTreeMenu is not a function
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\routes\menus.js:19:31
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\app.js:46:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-12T16:25:18.736] [ERROR] error - TypeError: util.getTreeMenu is not a function
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\routes\menus.js:19:31
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\app.js:46:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-12T16:25:21.747] [ERROR] error - TypeError: util.getTreeMenu is not a function
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\routes\menus.js:19:31
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\app.js:46:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-12T16:25:23.891] [ERROR] error - TypeError: util.getTreeMenu is not a function
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\routes\menus.js:19:31
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\app.js:46:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-12T16:25:44.558] [ERROR] error - TypeError: util.getTreeMenu is not a function
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\routes\menus.js:19:31
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\app.js:46:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-12T16:25:44.611] [ERROR] error - TypeError: util.getTreeMenu is not a function
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\routes\menus.js:19:31
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\app.js:46:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-bodyparser\index.js:95:5)

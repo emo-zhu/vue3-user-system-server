@@ -1,0 +1,531 @@
+[2022-08-09T12:47:27.928] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'body')
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\routes\users.js:13:45
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at next (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:45:18)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:34:9
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at views (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-static\index.js:53:15)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-logger\index.js:67:13)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+[2022-08-09T12:48:14.014] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'body')
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\routes\users.js:13:41
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at next (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:45:18)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:34:9
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at views (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-static\index.js:53:15)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-logger\index.js:67:13)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+[2022-08-09T12:49:12.179] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'body')
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\routes\users.js:13:41
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at next (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:45:18)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:34:9
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at views (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-static\index.js:53:15)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-logger\index.js:67:13)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+[2022-08-09T12:50:07.267] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'body')
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\routes\users.js:13:41
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at next (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:45:18)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:34:9
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at views (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-static\index.js:53:15)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-logger\index.js:67:13)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+[2022-08-09T12:50:35.715] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'body')
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\routes\users.js:13:41
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at next (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:45:18)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:34:9
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at views (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-static\index.js:53:15)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-logger\index.js:67:13)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+[2022-08-09T12:51:14.222] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'body')
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\routes\users.js:13:39
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at next (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:45:18)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:34:9
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at views (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-static\index.js:53:15)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-logger\index.js:67:13)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+[2022-08-09T12:51:29.009] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'body')
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\routes\users.js:13:39
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at next (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:45:18)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:34:9
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at views (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-static\index.js:53:15)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-logger\index.js:67:13)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+[2022-08-09T22:21:51.260] [ERROR] error - ReferenceError: token is not defined
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:52:28
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at next (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:45:18)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:46:9
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at views (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-static\index.js:53:15)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-09T22:22:08.826] [ERROR] error - ReferenceError: token is not defined
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:52:28
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at next (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:45:18)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:46:9
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at views (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-static\index.js:53:15)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-09T22:22:22.688] [ERROR] error - ReferenceError: token is not defined
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:52:28
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at next (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:45:18)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:46:9
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at views (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-static\index.js:53:15)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-09T22:23:15.682] [ERROR] error - ReferenceError: token is not defined
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:52:28
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at next (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:45:18)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:46:9
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at views (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-static\index.js:53:15)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-09T22:23:21.715] [ERROR] error - ReferenceError: token is not defined
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:52:28
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at next (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:45:18)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:46:9
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at views (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-static\index.js:53:15)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-09T22:26:24.612] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'split')
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:52:51
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at next (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:45:18)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:46:9
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at views (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-static\index.js:53:15)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-09T22:26:56.775] [ERROR] error - TypeError: JsonWebTokenError.verify is not a function
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:53:37
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at next (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:45:18)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:46:9
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at views (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-static\index.js:53:15)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-09T22:27:50.797] [ERROR] error - TypeError: JsonWebTokenError.verify is not a function
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:57:37
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at next (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:45:18)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:50:9
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at views (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-static\index.js:53:15)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-09T22:28:14.079] [ERROR] error - TypeError: JsonWebTokenError.verify is not a function
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:57:37
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at next (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:45:18)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:50:9
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at views (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-static\index.js:53:15)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-09T22:30:01.179] [ERROR] error - JsonWebTokenError: jwt must be provided
+    at Object.module.exports [as verify] (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\jsonwebtoken\verify.js:53:17)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:57:23
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at next (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:45:18)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:50:9
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at views (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-static\index.js:53:15)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-09T22:30:22.896] [ERROR] error - JsonWebTokenError: jwt must be provided
+    at Object.module.exports [as verify] (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\jsonwebtoken\verify.js:53:17)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:57:23
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at next (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:45:18)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:50:9
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at views (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-static\index.js:53:15)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-09T22:30:34.215] [ERROR] error - JsonWebTokenError: jwt must be provided
+    at Object.module.exports [as verify] (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\jsonwebtoken\verify.js:53:17)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:57:23
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at next (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:45:18)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:50:9
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at views (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-static\index.js:53:15)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-09T22:40:28.384] [ERROR] error - UnauthorizedError: Bad Authorization header format. Format is "Authorization: Bearer <token>"
+    at Object.throw (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\lib\context.js:97:11)
+    at resolveAuthorizationHeader (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-jwt\lib\resolvers\auth-header.js:26:18)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-jwt\lib\index.js:20:49
+    at Array.find (<anonymous>)
+    at jwt (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-jwt\lib\index.js:20:24)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:34:12
+    at Application.handleRequest (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\lib\application.js:168:12)
+    at Server.handleRequest (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\lib\application.js:150:19)
+    at Server.emit (node:events:390:28)
+    at parserOnIncoming (node:_http_server:951:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:128:17)
+[2022-08-09T22:41:08.696] [ERROR] error - UnauthorizedError: Bad Authorization header format. Format is "Authorization: Bearer <token>"
+    at Object.throw (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\lib\context.js:97:11)
+    at resolveAuthorizationHeader (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-jwt\lib\resolvers\auth-header.js:26:18)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-jwt\lib\index.js:20:49
+    at Array.find (<anonymous>)
+    at jwt (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-jwt\lib\index.js:20:24)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:34:12
+    at Application.handleRequest (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\lib\application.js:168:12)
+    at Server.handleRequest (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\lib\application.js:150:19)
+    at Server.emit (node:events:390:28)
+    at parserOnIncoming (node:_http_server:951:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:128:17)
+[2022-08-09T22:41:41.665] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'split')
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:56:51
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at next (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:45:18)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:50:9
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at views (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-static\index.js:53:15)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-09T22:43:47.124] [ERROR] error - UnauthorizedError: Bad Authorization header format. Format is "Authorization: Bearer <token>"
+    at Object.throw (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\lib\context.js:97:11)
+    at resolveAuthorizationHeader (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-jwt\lib\resolvers\auth-header.js:26:18)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-jwt\lib\index.js:20:49
+    at Array.find (<anonymous>)
+    at jwt (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-jwt\lib\index.js:20:24)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:50:9
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at views (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-static\index.js:53:15)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-logger\index.js:67:13)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at filter (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-json\index.js:25:12)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+[2022-08-09T22:44:22.799] [ERROR] error - UnauthorizedError: Authentication Error
+    at Object.throw (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\lib\context.js:97:11)
+    at jwt (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-jwt\lib\index.js:23:22)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:50:9
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at views (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-static\index.js:53:15)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-logger\index.js:67:13)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at filter (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-json\index.js:25:12)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-bodyparser\index.js:95:11)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-09T22:44:41.898] [ERROR] error - JsonWebTokenError: jwt must be provided
+    at Object.module.exports [as verify] (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\jsonwebtoken\verify.js:53:17)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:60:23
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at next (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:45:18)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:50:9
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at views (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-static\index.js:53:15)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-09T22:45:54.854] [ERROR] error - TokenExpiredError: jwt expired
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.module.exports [as verify] (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\jsonwebtoken\verify.js:94:10)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:60:23
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at next (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:45:18)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:50:9
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at views (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-static\index.js:53:15)
+[2022-08-09T22:46:07.952] [ERROR] error - TokenExpiredError: jwt expired
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.module.exports [as verify] (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\jsonwebtoken\verify.js:94:10)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:60:23
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at next (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:45:18)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:50:9
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at views (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-static\index.js:53:15)
+[2022-08-09T22:46:13.451] [ERROR] error - TokenExpiredError: jwt expired
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.module.exports [as verify] (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\jsonwebtoken\verify.js:94:10)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:60:23
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at next (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:45:18)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:50:9
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at views (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-static\index.js:53:15)
+[2022-08-09T22:49:26.976] [ERROR] error - TokenExpiredError: jwt expired
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.module.exports [as verify] (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\jsonwebtoken\verify.js:94:10)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:67:23
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at next (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:45:18)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:50:9
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at views (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-static\index.js:53:15)
+[2022-08-09T22:49:51.232] [ERROR] error - TokenExpiredError: jwt expired
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.module.exports [as verify] (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\jsonwebtoken\verify.js:94:10)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:67:23
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at next (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:45:18)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:44:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:50:9
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at views (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-static\index.js:53:15)
+[2022-08-09T22:52:30.629] [ERROR] error - ReferenceError: util is not defined
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:53:18
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:50:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-09T22:52:30.640] [ERROR] error - ReferenceError: util is not defined
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:53:18
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:50:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-09T22:52:38.366] [ERROR] error - ReferenceError: util is not defined
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:53:18
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:50:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-09T22:52:40.137] [ERROR] error - ReferenceError: util is not defined
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:53:18
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:50:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-09T22:52:40.888] [ERROR] error - ReferenceError: util is not defined
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:53:18
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:50:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-09T22:52:41.124] [ERROR] error - ReferenceError: util is not defined
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:53:18
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\app.js:50:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\manage-server\node_modules\koa-bodyparser\index.js:95:5)

@@ -1,0 +1,27 @@
+[2022-08-16T23:52:53.432] [ERROR] error - TypeError: Cannot read properties of null (reading 'slice')
+    at getTreeDept (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\routes\depts.js:32:30)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\routes\depts.js:22:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\app.js:47:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-16T23:52:56.870] [ERROR] error - TypeError: Cannot read properties of null (reading 'slice')
+    at getTreeDept (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\routes\depts.js:32:30)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\routes\depts.js:22:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\app.js:47:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-16T23:53:37.939] [ERROR] error - TypeError: Cannot read properties of null (reading 'slice')
+    at getTreeDept (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\routes\depts.js:32:30)
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\routes\depts.js:22:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\app.js:47:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-bodyparser\index.js:95:5)

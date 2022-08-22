@@ -1,0 +1,28 @@
+[2022-08-14T15:15:27.848] [ERROR] error - ReferenceError: actionList is not defined
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\routes\users.js:168:39
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\app.js:46:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-14T15:15:44.936] [ERROR] error - ReferenceError: actionList is not defined
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\routes\users.js:168:39
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\app.js:46:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-14T15:15:59.788] [ERROR] error - ReferenceError: actionList is not defined
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\routes\users.js:168:39
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\app.js:46:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-14T15:18:43.032] [ERROR] error - ReferenceError: getAction is not defined
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\routes\users.js:167:20
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\app.js:46:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-bodyparser\index.js:95:5)

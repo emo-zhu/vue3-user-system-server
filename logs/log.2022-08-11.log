@@ -1,0 +1,705 @@
+[2022-08-11T18:37:38.191] [ERROR] error - CastError: Cast to Number failed for value "{
+  state: 1,
+  role: 0,
+  roleList: [
+    '60180b07bleaed6c45fbebdb',
+    '60150cb764de99631b2c3cd3',
+    '60180b59bleaed6c45fbebdc'
+  ],
+  deptId: [ '60167059c9027b7d2c520a61', '60167345c6a4417f2d27506fm' ],
+  userId: 1000002,
+  userEmail: 'admin@imooc.com',
+  createTime: '2021-01-17T13:32:06.381Z',
+  lastLoginTime: '2021-01-17T13:32:06.381Z',
+  __v: 0,
+  job: '前端架构师',
+  mobi1e: '17611020000',
+  username: 'admin123',
+  pwd: '123'
+}" (type Object) at path "userId" for model "users"
+    at model.Query.exec (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4798:21)
+    at model.Query.Query.then (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4897:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-11T18:37:44.847] [ERROR] error - CastError: Cast to Number failed for value "{
+  state: 1,
+  role: 0,
+  roleList: [
+    '60180b07bleaed6c45fbebdb',
+    '60150cb764de99631b2c3cd3',
+    '60180b59bleaed6c45fbebdc'
+  ],
+  deptId: [ '60167059c9027b7d2c520a61', '60167345c6a4417f2d27506fm' ],
+  userId: 1000002,
+  userEmail: 'admin@imooc.com',
+  createTime: '2021-01-17T13:32:06.381Z',
+  lastLoginTime: '2021-01-17T13:32:06.381Z',
+  __v: 0,
+  job: '前端架构师',
+  mobi1e: '17611020000',
+  username: 'admin123',
+  pwd: '123'
+}" (type Object) at path "userId" for model "users"
+    at model.Query.exec (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4798:21)
+    at model.Query.Query.then (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4897:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-11T18:49:43.189] [ERROR] error - CastError: Cast to Number failed for value "{
+  state: 2,
+  role: 0,
+  roleList: [
+    '60180b07bleaed6c45fbebdb',
+    '60150cb764de99631b2c3cd3',
+    '60180b59bleaed6c45fbebdc'
+  ],
+  deptId: [ '60167059c9027b7d2c520a61', '60167345c6a4417f2d27506fm' ],
+  userId: 1000002,
+  userEmail: 'admin@imooc.com',
+  createTime: '2021-01-17T13:32:06.381Z',
+  lastLoginTime: '2021-01-17T13:32:06.381Z',
+  __v: 0,
+  job: '前端架构师',
+  mobi1e: '17611020000',
+  username: 'admin123',
+  pwd: '123'
+}" (type Object) at path "userId" for model "users"
+    at model.Query.exec (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4798:21)
+    at model.Query.Query.then (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4897:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-11T18:50:47.617] [ERROR] error - CastError: Cast to Number failed for value "{
+  state: 1,
+  role: 0,
+  roleList: [
+    '60180b07bleaed6c45fbebdb',
+    '60150cb764de99631b2c3cd3',
+    '60180b59bleaed6c45fbebdc'
+  ],
+  deptId: [ '60167059c9027b7d2c520a61', '60167345c6a4417f2d27506fm' ],
+  userId: 1000004,
+  userEmail: 'admin@imooc.com',
+  createTime: '2021-01-17T13:32:06.381Z',
+  lastLoginTime: '2021-01-17T13:32:06.381Z',
+  __v: 0,
+  job: '前端架构师',
+  mobi1e: '17611020000',
+  username: 'admin123',
+  pwd: '123'
+}" (type Object) at path "userId" for model "users"
+    at model.Query.exec (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4798:21)
+    at model.Query.Query.then (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4897:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-11T18:56:01.396] [ERROR] error - CastError: Cast to Number failed for value "{
+  state: 2,
+  role: 0,
+  roleList: [
+    '60180b07bleaed6c45fbebdb',
+    '60150cb764de99631b2c3cd3',
+    '60180b59bleaed6c45fbebdc'
+  ],
+  deptId: [ '60167059c9027b7d2c520a61', '60167345c6a4417f2d27506fm' ],
+  userId: 1000002,
+  userEmail: 'admin@imooc.com',
+  createTime: '2021-01-17T13:32:06.381Z',
+  lastLoginTime: '2021-01-17T13:32:06.381Z',
+  __v: 0,
+  job: '前端架构师',
+  mobi1e: '17611020000',
+  username: 'admin123',
+  pwd: '123'
+}" (type Object) at path "userId" for model "users"
+    at model.Query.exec (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4798:21)
+    at model.Query.Query.then (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4897:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-11T19:20:32.696] [ERROR] error - CastError: Cast to Number failed for value "{
+  state: 1,
+  role: 0,
+  roleList: [
+    '60180b07bleaed6c45fbebdb',
+    '60150cb764de99631b2c3cd3',
+    '60180b59bleaed6c45fbebdc'
+  ],
+  deptId: [ '60167059c9027b7d2c520a61', '60167345c6a4417f2d27506fm' ],
+  userId: 1000003,
+  userEmail: 'admin@imooc.com',
+  createTime: '2021-01-17T13:32:06.381Z',
+  lastLoginTime: '2021-01-17T13:32:06.381Z',
+  __v: 0,
+  job: '前端架构师',
+  mobi1e: '17611020000',
+  username: 'admin123',
+  pwd: '123'
+}" (type Object) at path "userId" for model "users"
+    at model.Query.exec (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4798:21)
+    at model.Query.Query.then (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4897:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-11T19:22:50.782] [ERROR] error - CastError: Cast to Number failed for value "{
+  state: 1,
+  role: 0,
+  roleList: [
+    '60180b07bleaed6c45fbebdb',
+    '60150cb764de99631b2c3cd3',
+    '60180b59bleaed6c45fbebdc'
+  ],
+  deptId: [ '60167059c9027b7d2c520a61', '60167345c6a4417f2d27506fm' ],
+  userId: 1000003,
+  userEmail: 'admin@imooc.com',
+  createTime: '2021-01-17T13:32:06.381Z',
+  lastLoginTime: '2021-01-17T13:32:06.381Z',
+  __v: 0,
+  job: '前端架构师',
+  mobi1e: '17611020000',
+  username: 'admin123',
+  pwd: '123'
+}" (type Object) at path "userId" for model "users"
+    at model.Query.exec (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4798:21)
+    at model.Query.Query.then (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4897:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-11T19:24:59.441] [ERROR] error - CastError: Cast to Number failed for value "{
+  state: 1,
+  role: 0,
+  roleList: [
+    '60180b07bleaed6c45fbebdb',
+    '60150cb764de99631b2c3cd3',
+    '60180b59bleaed6c45fbebdc'
+  ],
+  deptId: [ '60167059c9027b7d2c520a61', '60167345c6a4417f2d27506fm' ],
+  userId: 1000003,
+  userEmail: 'admin@imooc.com',
+  createTime: '2021-01-17T13:32:06.381Z',
+  lastLoginTime: '2021-01-17T13:32:06.381Z',
+  __v: 0,
+  job: '前端架构师',
+  mobi1e: '17611020000',
+  username: 'admin123',
+  pwd: '123'
+}" (type Object) at path "userId" for model "users"
+    at model.Query.exec (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4798:21)
+    at model.Query.Query.then (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4897:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-11T21:19:12.222] [ERROR] error - CastError: Cast to Number failed for value "{
+  state: 1,
+  role: 0,
+  roleList: [
+    '60180b07bleaed6c45fbebdb',
+    '60150cb764de99631b2c3cd3',
+    '60180b59bleaed6c45fbebdc'
+  ],
+  deptId: [ '60167059c9027b7d2c520a61', '60167345c6a4417f2d27506fm' ],
+  userId: 1000003,
+  userEmail: 'admin@imooc.com',
+  createTime: '2021-01-17T13:32:06.381Z',
+  lastLoginTime: '2021-01-17T13:32:06.381Z',
+  __v: 0,
+  job: '前端架构师',
+  mobi1e: '17611020000',
+  username: 'admin123',
+  pwd: '123'
+}" (type Object) at path "userId" for model "users"
+    at model.Query.exec (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4798:21)
+    at model.Query.Query.then (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4897:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-11T21:19:15.109] [ERROR] error - CastError: Cast to Number failed for value "{
+  state: 1,
+  role: 0,
+  roleList: [
+    '60180b07bleaed6c45fbebdb',
+    '60150cb764de99631b2c3cd3',
+    '60180b59bleaed6c45fbebdc'
+  ],
+  deptId: [ '60167059c9027b7d2c520a61', '60167345c6a4417f2d27506fm' ],
+  userId: 1000003,
+  userEmail: 'admin@imooc.com',
+  createTime: '2021-01-17T13:32:06.381Z',
+  lastLoginTime: '2021-01-17T13:32:06.381Z',
+  __v: 0,
+  job: '前端架构师',
+  mobi1e: '17611020000',
+  username: 'admin123',
+  pwd: '123'
+}" (type Object) at path "userId" for model "users"
+    at model.Query.exec (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4798:21)
+    at model.Query.Query.then (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4897:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-11T21:19:17.802] [ERROR] error - CastError: Cast to Number failed for value "{
+  state: 1,
+  role: 0,
+  roleList: [
+    '60180b07bleaed6c45fbebdb',
+    '60150cb764de99631b2c3cd3',
+    '60180b59bleaed6c45fbebdc'
+  ],
+  deptId: [ '60167059c9027b7d2c520a61', '60167345c6a4417f2d27506fm' ],
+  userId: 1000003,
+  userEmail: 'admin@imooc.com',
+  createTime: '2021-01-17T13:32:06.381Z',
+  lastLoginTime: '2021-01-17T13:32:06.381Z',
+  __v: 0,
+  job: '前端架构师',
+  mobi1e: '17611020000',
+  username: 'admin123',
+  pwd: '123'
+}" (type Object) at path "userId" for model "users"
+    at model.Query.exec (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4798:21)
+    at model.Query.Query.then (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4897:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-11T21:21:20.015] [ERROR] error - CastError: Cast to Number failed for value "{
+  state: 1,
+  role: 0,
+  roleList: [
+    '60180b07bleaed6c45fbebdb',
+    '60150cb764de99631b2c3cd3',
+    '60180b59bleaed6c45fbebdc'
+  ],
+  deptId: [ '60167059c9027b7d2c520a61', '60167345c6a4417f2d27506fm' ],
+  userId: 1000003,
+  userEmail: 'admin@imooc.com',
+  createTime: '2021-01-17T13:32:06.381Z',
+  lastLoginTime: '2021-01-17T13:32:06.381Z',
+  __v: 0,
+  job: '前端架构师',
+  mobi1e: '17611020000',
+  username: 'admin123',
+  pwd: '123'
+}" (type Object) at path "userId" for model "users"
+    at model.Query.exec (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4798:21)
+    at model.Query.Query.then (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4897:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-11T21:21:23.852] [ERROR] error - CastError: Cast to Number failed for value "{
+  state: 1,
+  role: 0,
+  roleList: [
+    '60180b07bleaed6c45fbebdb',
+    '60150cb764de99631b2c3cd3',
+    '60180b59bleaed6c45fbebdc'
+  ],
+  deptId: [ '60167059c9027b7d2c520a61', '60167345c6a4417f2d27506fm' ],
+  userId: 1000003,
+  userEmail: 'admin@imooc.com',
+  createTime: '2021-01-17T13:32:06.381Z',
+  lastLoginTime: '2021-01-17T13:32:06.381Z',
+  __v: 0,
+  job: '前端架构师',
+  mobi1e: '17611020000',
+  username: 'admin123',
+  pwd: '123'
+}" (type Object) at path "userId" for model "users"
+    at model.Query.exec (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4798:21)
+    at model.Query.Query.then (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4897:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-11T21:21:24.214] [ERROR] error - CastError: Cast to Number failed for value "{
+  state: 1,
+  role: 0,
+  roleList: [
+    '60180b07bleaed6c45fbebdb',
+    '60150cb764de99631b2c3cd3',
+    '60180b59bleaed6c45fbebdc'
+  ],
+  deptId: [ '60167059c9027b7d2c520a61', '60167345c6a4417f2d27506fm' ],
+  userId: 1000003,
+  userEmail: 'admin@imooc.com',
+  createTime: '2021-01-17T13:32:06.381Z',
+  lastLoginTime: '2021-01-17T13:32:06.381Z',
+  __v: 0,
+  job: '前端架构师',
+  mobi1e: '17611020000',
+  username: 'admin123',
+  pwd: '123'
+}" (type Object) at path "userId" for model "users"
+    at model.Query.exec (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4798:21)
+    at model.Query.Query.then (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4897:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-11T21:21:24.722] [ERROR] error - CastError: Cast to Number failed for value "{
+  state: 1,
+  role: 0,
+  roleList: [
+    '60180b07bleaed6c45fbebdb',
+    '60150cb764de99631b2c3cd3',
+    '60180b59bleaed6c45fbebdc'
+  ],
+  deptId: [ '60167059c9027b7d2c520a61', '60167345c6a4417f2d27506fm' ],
+  userId: 1000003,
+  userEmail: 'admin@imooc.com',
+  createTime: '2021-01-17T13:32:06.381Z',
+  lastLoginTime: '2021-01-17T13:32:06.381Z',
+  __v: 0,
+  job: '前端架构师',
+  mobi1e: '17611020000',
+  username: 'admin123',
+  pwd: '123'
+}" (type Object) at path "userId" for model "users"
+    at model.Query.exec (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4798:21)
+    at model.Query.Query.then (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4897:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-11T21:21:24.867] [ERROR] error - CastError: Cast to Number failed for value "{
+  state: 1,
+  role: 0,
+  roleList: [
+    '60180b07bleaed6c45fbebdb',
+    '60150cb764de99631b2c3cd3',
+    '60180b59bleaed6c45fbebdc'
+  ],
+  deptId: [ '60167059c9027b7d2c520a61', '60167345c6a4417f2d27506fm' ],
+  userId: 1000003,
+  userEmail: 'admin@imooc.com',
+  createTime: '2021-01-17T13:32:06.381Z',
+  lastLoginTime: '2021-01-17T13:32:06.381Z',
+  __v: 0,
+  job: '前端架构师',
+  mobi1e: '17611020000',
+  username: 'admin123',
+  pwd: '123'
+}" (type Object) at path "userId" for model "users"
+    at model.Query.exec (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4798:21)
+    at model.Query.Query.then (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4897:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-11T21:21:24.961] [ERROR] error - CastError: Cast to Number failed for value "{
+  state: 1,
+  role: 0,
+  roleList: [
+    '60180b07bleaed6c45fbebdb',
+    '60150cb764de99631b2c3cd3',
+    '60180b59bleaed6c45fbebdc'
+  ],
+  deptId: [ '60167059c9027b7d2c520a61', '60167345c6a4417f2d27506fm' ],
+  userId: 1000003,
+  userEmail: 'admin@imooc.com',
+  createTime: '2021-01-17T13:32:06.381Z',
+  lastLoginTime: '2021-01-17T13:32:06.381Z',
+  __v: 0,
+  job: '前端架构师',
+  mobi1e: '17611020000',
+  username: 'admin123',
+  pwd: '123'
+}" (type Object) at path "userId" for model "users"
+    at model.Query.exec (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4798:21)
+    at model.Query.Query.then (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4897:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-11T21:25:55.255] [ERROR] error - CastError: Cast to Number failed for value "{
+  state: 1,
+  role: 0,
+  roleList: [ '60180b07bleaed6c45fbebdb', '60180b59bleaed6c45fbebdc' ],
+  deptId: [ '60167059c9027b7d2c520a61', '60167375c6a4417f2d275072' ],
+  userId: 1000003,
+  userEmail: 'admin@imooc.com',
+  createTime: '2021-01-17T13:32:06.381Z',
+  lastLoginTime: '2021-01-17T13:32:06.381Z',
+  __v: 0,
+  job: '前端架构师',
+  mobi1e: '17611020000',
+  username: 'admin123',
+  pwd: '123'
+}" (type Object) at path "userId" for model "users"
+    at model.Query.exec (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4798:21)
+    at model.Query.Query.then (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4897:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-11T21:26:29.139] [ERROR] error - CastError: Cast to Number failed for value "{
+  state: 1,
+  role: 0,
+  roleList: [ '60180b07bleaed6c45fbebdb', '60180b59bleaed6c45fbebdc' ],
+  deptId: [ '60167059c9027b7d2c520a61', '60167375c6a4417f2d275072' ],
+  userId: 1000003,
+  userEmail: 'admin@imooc.com',
+  createTime: '2021-01-17T13:32:06.381Z',
+  lastLoginTime: '2021-01-17T13:32:06.381Z',
+  __v: 0,
+  job: '前端架构师',
+  mobi1e: '17611020000',
+  username: 'admin123',
+  pwd: '123'
+}" (type Object) at path "userId" for model "users"
+    at model.Query.exec (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4798:21)
+    at model.Query.Query.then (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4897:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-11T21:27:44.472] [ERROR] error - CastError: Cast to Number failed for value "{
+  state: 1,
+  role: 0,
+  roleList: [ '60180b07bleaed6c45fbebdb', '60180b59bleaed6c45fbebdc' ],
+  deptId: [ '60167059c9027b7d2c520a61', '60167375c6a4417f2d275072' ],
+  userId: 1000003,
+  userEmail: 'admin@imooc.com',
+  createTime: '2021-01-17T13:32:06.381Z',
+  lastLoginTime: '2021-01-17T13:32:06.381Z',
+  __v: 0,
+  job: '前端架构师',
+  mobi1e: '17611020000',
+  username: 'admin123',
+  pwd: '123'
+}" (type Object) at path "userId" for model "users"
+    at model.Query.exec (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4798:21)
+    at model.Query.Query.then (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4897:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-11T21:28:18.248] [ERROR] error - CastError: Cast to Number failed for value "{
+  state: 1,
+  role: 0,
+  roleList: [ '60180b07bleaed6c45fbebdb', '60180b59bleaed6c45fbebdc' ],
+  deptId: [ '60167059c9027b7d2c520a61', '60167375c6a4417f2d275072' ],
+  userId: 1000003,
+  userEmail: 'admin@imooc.com',
+  createTime: '2021-01-17T13:32:06.381Z',
+  lastLoginTime: '2021-01-17T13:32:06.381Z',
+  __v: 0,
+  job: '前端架构师',
+  mobi1e: '17611020000',
+  username: 'admin123',
+  pwd: '123'
+}" (type Object) at path "userId" for model "users"
+    at model.Query.exec (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4798:21)
+    at model.Query.Query.then (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4897:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-11T21:28:41.077] [ERROR] error - CastError: Cast to Number failed for value "{
+  state: 1,
+  role: 0,
+  roleList: [ '60180b07bleaed6c45fbebdb', '60180b59bleaed6c45fbebdc' ],
+  deptId: [ '60167059c9027b7d2c520a61', '60167375c6a4417f2d275072' ],
+  userId: 1000003,
+  userEmail: 'admin@imooc.com',
+  createTime: '2021-01-17T13:32:06.381Z',
+  lastLoginTime: '2021-01-17T13:32:06.381Z',
+  __v: 0,
+  job: '前端架构师',
+  mobi1e: '17611020000',
+  username: 'admin123',
+  pwd: '123'
+}" (type Object) at path "userId" for model "users"
+    at model.Query.exec (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4798:21)
+    at model.Query.Query.then (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4897:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-11T21:30:06.030] [ERROR] error - CastError: Cast to Number failed for value "{
+  state: 1,
+  role: 0,
+  roleList: [ '60180b07bleaed6c45fbebdb', '60180b59bleaed6c45fbebdc' ],
+  deptId: [ '60167059c9027b7d2c520a61', '60167375c6a4417f2d275072' ],
+  userId: 1000003,
+  userEmail: 'admin@imooc.com',
+  createTime: '2021-01-17T13:32:06.381Z',
+  lastLoginTime: '2021-01-17T13:32:06.381Z',
+  __v: 0,
+  job: '前端架构师',
+  mobi1e: '17611020000',
+  username: 'admin123',
+  pwd: '123'
+}" (type Object) at path "userId" for model "users"
+    at model.Query.exec (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4798:21)
+    at model.Query.Query.then (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4897:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-11T21:30:33.829] [ERROR] error - CastError: Cast to Number failed for value "{
+  state: 1,
+  role: 0,
+  roleList: [ '60180b07bleaed6c45fbebdb', '60180b59bleaed6c45fbebdc' ],
+  deptId: [ '60167059c9027b7d2c520a61', '60167375c6a4417f2d275072' ],
+  userId: 1000003,
+  userEmail: 'admin@imooc.com',
+  createTime: '2021-01-17T13:32:06.381Z',
+  lastLoginTime: '2021-01-17T13:32:06.381Z',
+  __v: 0,
+  job: '前端架构师',
+  mobi1e: '17611020000',
+  username: 'admin123',
+  pwd: '123'
+}" (type Object) at path "userId" for model "users"
+    at model.Query.exec (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4798:21)
+    at model.Query.Query.then (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4897:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-11T21:41:12.442] [ERROR] error - CastError: Cast to Number failed for value "{
+  state: 1,
+  role: 0,
+  roleList: [ '60180b07bleaed6c45fbebdb', '60180b59bleaed6c45fbebdc' ],
+  deptId: [ '60167059c9027b7d2c520a61', '60167375c6a4417f2d275072' ],
+  userId: 1000003,
+  userEmail: 'admin@imooc.com',
+  createTime: '2021-01-17T13:32:06.381Z',
+  lastLoginTime: '2021-01-17T13:32:06.381Z',
+  __v: 0,
+  job: '前端架构师',
+  mobi1e: '17611020000',
+  username: 'admin123',
+  pwd: '123'
+}" (type Object) at path "userId" for model "users"
+    at model.Query.exec (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4798:21)
+    at model.Query.Query.then (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4897:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-11T21:45:24.932] [ERROR] error - CastError: Cast to Number failed for value "{
+  state: 1,
+  role: 0,
+  roleList: [ '60180b07bleaed6c45fbebdb', '60180b59bleaed6c45fbebdc' ],
+  deptId: [ '60167059c9027b7d2c520a61', '60167375c6a4417f2d275072' ],
+  userId: 1000003,
+  userEmail: 'admin@imooc.com',
+  createTime: '2021-01-17T13:32:06.381Z',
+  lastLoginTime: '2021-01-17T13:32:06.381Z',
+  __v: 0,
+  job: '前端架构师',
+  mobi1e: '17611020000',
+  username: 'admin123',
+  pwd: '123'
+}" (type Object) at path "userId" for model "users"
+    at model.Query.exec (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4798:21)
+    at model.Query.Query.then (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4897:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-11T21:46:45.362] [ERROR] error - CastError: Cast to Number failed for value "{
+  state: 1,
+  role: 0,
+  roleList: [ '60180b07bleaed6c45fbebdb', '60180b59bleaed6c45fbebdc' ],
+  deptId: [ '60167059c9027b7d2c520a61', '60167375c6a4417f2d275072' ],
+  userId: 1000003,
+  userEmail: 'admin@imooc.com',
+  createTime: '2021-01-17T13:32:06.381Z',
+  lastLoginTime: '2021-01-17T13:32:06.381Z',
+  __v: 0,
+  job: '前端架构师',
+  mobi1e: '17611020000',
+  username: 'admin123',
+  pwd: '123'
+}" (type Object) at path "userId" for model "users"
+    at model.Query.exec (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4798:21)
+    at model.Query.Query.then (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4897:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-11T21:59:48.910] [ERROR] error - CastError: Cast to Number failed for value "{
+  state: 1,
+  role: 0,
+  roleList: [ '60180b07bleaed6c45fbebdb', '60180b59bleaed6c45fbebdc' ],
+  deptId: [ '60167059c9027b7d2c520a61', '60167375c6a4417f2d275072' ],
+  userId: 1000003,
+  userEmail: 'admin@imooc.com',
+  createTime: '2021-01-17T13:32:06.381Z',
+  lastLoginTime: '2021-01-17T13:32:06.381Z',
+  __v: 0,
+  job: '前端架构师',
+  mobi1e: '17611020000',
+  username: 'admin123',
+  pwd: '123'
+}" (type Object) at path "userId" for model "users"
+    at model.Query.exec (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4798:21)
+    at model.Query.Query.then (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4897:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-11T22:02:43.167] [ERROR] error - CastError: Cast to Number failed for value "{
+  state: 1,
+  role: 0,
+  roleList: [
+    '60180b07bleaed6c45fbebdb',
+    '60150cb764de99631b2c3cd3',
+    '60180b59bleaed6c45fbebdc'
+  ],
+  deptId: [ '60167059c9027b7d2c520a61', '60167345c6a4417f2d27506fm' ],
+  userId: 1000004,
+  userEmail: 'admin@imooc.com',
+  createTime: '2021-01-17T13:32:06.381Z',
+  lastLoginTime: '2021-01-17T13:32:06.381Z',
+  __v: 0,
+  job: '前端架构师',
+  mobi1e: '17611020000',
+  username: 'admin123',
+  pwd: '123'
+}" (type Object) at path "userId" for model "users"
+    at model.Query.exec (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4798:21)
+    at model.Query.Query.then (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4897:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-11T22:03:46.140] [ERROR] error - CastError: Cast to Number failed for value "{
+  state: 1,
+  role: 0,
+  roleList: [
+    '60180b07bleaed6c45fbebdb',
+    '60150cb764de99631b2c3cd3',
+    '60180b59bleaed6c45fbebdc'
+  ],
+  deptId: [ '60167059c9027b7d2c520a61', '60167345c6a4417f2d27506fm' ],
+  userId: 1000002,
+  userEmail: 'admin@imooc.com',
+  createTime: '2021-01-17T13:32:06.381Z',
+  lastLoginTime: '2021-01-17T13:32:06.381Z',
+  __v: 0,
+  job: '前端架构师',
+  mobi1e: '17611020000',
+  username: 'admin123',
+  pwd: '123'
+}" (type Object) at path "userId" for model "users"
+    at model.Query.exec (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4798:21)
+    at model.Query.Query.then (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4897:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-11T22:04:22.960] [ERROR] error - CastError: Cast to Number failed for value "{
+  state: 1,
+  role: 0,
+  roleList: [ '60180b07bleaed6c45fbebdb', '60180b59bleaed6c45fbebdc' ],
+  deptId: [ '60167059c9027b7d2c520a61', '60167375c6a4417f2d275072' ],
+  userId: 1000003,
+  userEmail: 'admin@imooc.com',
+  createTime: '2021-01-17T13:32:06.381Z',
+  lastLoginTime: '2021-01-17T13:32:06.381Z',
+  __v: 0,
+  job: '前端架构师',
+  mobi1e: '17611020000',
+  username: 'admin123',
+  pwd: '123'
+}" (type Object) at path "userId" for model "users"
+    at model.Query.exec (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4798:21)
+    at model.Query.Query.then (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\mongoose\lib\query.js:4897:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-11T22:48:54.280] [ERROR] error - ReferenceError: Counter is not defined
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\routes\users.js:105:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\app.js:44:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-11T22:48:56.433] [ERROR] error - ReferenceError: Counter is not defined
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\routes\users.js:105:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\app.js:44:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-11T22:48:57.329] [ERROR] error - ReferenceError: Counter is not defined
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\routes\users.js:105:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\app.js:44:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-11T22:48:57.519] [ERROR] error - ReferenceError: Counter is not defined
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\routes\users.js:105:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\app.js:44:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-11T22:48:57.583] [ERROR] error - ReferenceError: Counter is not defined
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\routes\users.js:105:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\app.js:44:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-bodyparser\index.js:95:5)
+[2022-08-11T22:49:37.490] [ERROR] error - ReferenceError: Counter is not defined
+    at E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\routes\users.js:105:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\app.js:44:3
+    at async serve (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\1.前端学习模块集合\Vue3项目\Vue3+koa2_index\Manager-Server\node_modules\koa-bodyparser\index.js:95:5)
